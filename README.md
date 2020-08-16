@@ -2,7 +2,7 @@
 
 Zimní 2019/2020
 
-Implementace primitivního procesoru na instrukce BrainF\*ck.
+Implementace primitivního procesoru na instrukce BrainF\*ck v jazyce VHDL.
 
 Pouze soubory, které byly pozměněny, ne celý projekt potřebný ke spuštění.
 
